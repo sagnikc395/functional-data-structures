@@ -1,0 +1,9 @@
+#+TITLE: functional-data-structures
+
+
+Implementations of various Functional(persistent) Data Structures in
+Typescript + Effect.ts.
+
+All the data structures are taken from [[https://www.cs.cmu.edu/~rwh/students/okasaki.pdf][Purely Functional Data Structures]]
+thesis report by Chris Okasaki.
+
